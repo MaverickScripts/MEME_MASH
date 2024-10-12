@@ -1,4 +1,4 @@
-# MEME_MATE
+# MEME_MASH
 The code imports necessary libraries for text generation, image processing, and web scraping, including random, textwrap, requests, PIL, transformers, BeautifulSoup, and others.
 
 A GPT-2 text generation model is initialized using Hugging Face's pipeline to generate meme captions based on a prompt.
